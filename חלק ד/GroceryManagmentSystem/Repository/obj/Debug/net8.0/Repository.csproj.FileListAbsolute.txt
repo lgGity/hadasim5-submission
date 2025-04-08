@@ -1,0 +1,30 @@
+D:\hadasim\GroceryManagmentSystem\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\hadasim\GroceryManagmentSystem\Repository\bin\Debug\net8.0\Repository.dll
+D:\hadasim\GroceryManagmentSystem\Repository\bin\Debug\net8.0\Repository.pdb
+D:\hadasim\GroceryManagmentSystem\Repository\bin\Debug\net8.0\Common.dll
+D:\hadasim\GroceryManagmentSystem\Repository\bin\Debug\net8.0\Common.pdb
+D:\hadasim\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\hadasim\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\hadasim\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\hadasim\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\hadasim\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\hadasim\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\hadasim\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.dll
+D:\hadasim\GroceryManagmentSystem\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\hadasim\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.pdb
+D:\hadasim\GroceryManagmentSystem\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\bin\Debug\net8.0\Repository.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\bin\Debug\net8.0\Repository.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\bin\Debug\net8.0\Common.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\bin\Debug\net8.0\Common.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\obj\Debug\net8.0\Repository.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\Repository\obj\Debug\net8.0\ref\Repository.dll

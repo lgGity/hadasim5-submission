@@ -1,0 +1,22 @@
+D:\hadasim\GroceryManagmentSystem\Common\bin\Debug\net8.0\Common.deps.json
+D:\hadasim\GroceryManagmentSystem\Common\bin\Debug\net8.0\Common.dll
+D:\hadasim\GroceryManagmentSystem\Common\bin\Debug\net8.0\Common.pdb
+D:\hadasim\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\hadasim\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\hadasim\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\hadasim\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\hadasim\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.dll
+D:\hadasim\GroceryManagmentSystem\Common\obj\Debug\net8.0\refint\Common.dll
+D:\hadasim\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.pdb
+D:\hadasim\GroceryManagmentSystem\Common\obj\Debug\net8.0\ref\Common.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Common\bin\Debug\net8.0\Common.deps.json
+D:\hadasim\חלק ד\GroceryManagmentSystem\Common\bin\Debug\net8.0\Common.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Common\bin\Debug\net8.0\Common.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\hadasim\חלק ד\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\hadasim\חלק ד\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Common\obj\Debug\net8.0\refint\Common.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Common\obj\Debug\net8.0\Common.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\Common\obj\Debug\net8.0\ref\Common.dll

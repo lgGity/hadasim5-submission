@@ -1,0 +1,34 @@
+D:\hadasim\GroceryManagmentSystem\Service\bin\Debug\net8.0\Service.deps.json
+D:\hadasim\GroceryManagmentSystem\Service\bin\Debug\net8.0\Service.dll
+D:\hadasim\GroceryManagmentSystem\Service\bin\Debug\net8.0\Service.pdb
+D:\hadasim\GroceryManagmentSystem\Service\bin\Debug\net8.0\Common.dll
+D:\hadasim\GroceryManagmentSystem\Service\bin\Debug\net8.0\Repository.dll
+D:\hadasim\GroceryManagmentSystem\Service\bin\Debug\net8.0\Repository.pdb
+D:\hadasim\GroceryManagmentSystem\Service\bin\Debug\net8.0\Common.pdb
+D:\hadasim\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\hadasim\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\hadasim\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\hadasim\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\hadasim\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\hadasim\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\hadasim\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.dll
+D:\hadasim\GroceryManagmentSystem\Service\obj\Debug\net8.0\refint\Service.dll
+D:\hadasim\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.pdb
+D:\hadasim\GroceryManagmentSystem\Service\obj\Debug\net8.0\ref\Service.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\bin\Debug\net8.0\Service.deps.json
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\bin\Debug\net8.0\Service.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\bin\Debug\net8.0\Service.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\bin\Debug\net8.0\Common.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\bin\Debug\net8.0\Repository.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\bin\Debug\net8.0\Common.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\bin\Debug\net8.0\Repository.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\obj\Debug\net8.0\refint\Service.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\obj\Debug\net8.0\Service.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\Service\obj\Debug\net8.0\ref\Service.dll

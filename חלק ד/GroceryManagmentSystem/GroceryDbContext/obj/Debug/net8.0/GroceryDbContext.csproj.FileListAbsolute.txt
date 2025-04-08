@@ -1,0 +1,38 @@
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\GroceryDbContext.deps.json
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\GroceryDbContext.runtimeconfig.json
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\GroceryDbContext.dll
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\GroceryDbContext.pdb
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\Common.dll
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\Repository.dll
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\Repository.pdb
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\Common.pdb
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.csproj.AssemblyReference.cache
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.AssemblyInfoInputs.cache
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.AssemblyInfo.cs
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.csproj.CoreCompileInputs.cache
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryD.A8D10C93.Up2Date
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.dll
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\refint\GroceryDbContext.dll
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.pdb
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.genruntimeconfig.cache
+D:\hadasim\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\ref\GroceryDbContext.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\GroceryDbContext.deps.json
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\GroceryDbContext.runtimeconfig.json
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\GroceryDbContext.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\GroceryDbContext.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\Common.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\Repository.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\Common.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\bin\Debug\net8.0\Repository.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.csproj.AssemblyReference.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.AssemblyInfoInputs.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.AssemblyInfo.cs
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.csproj.CoreCompileInputs.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryD.A8D10C93.Up2Date
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\refint\GroceryDbContext.dll
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.pdb
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\GroceryDbContext.genruntimeconfig.cache
+D:\hadasim\חלק ד\GroceryManagmentSystem\GroceryDbContext\obj\Debug\net8.0\ref\GroceryDbContext.dll

@@ -1,0 +1,877 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\service\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|solutionrelative:service\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\service\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|solutionrelative:service\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\service\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|solutionrelative:service\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|solutionrelative:service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|solutionrelative:service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\service\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|solutionrelative:service\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\entities\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerymanagmentsystem\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|solutionrelative:grocerymanagmentsystem\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerymanagmentsystem\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|solutionrelative:grocerymanagmentsystem\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerymanagmentsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|solutionrelative:grocerymanagmentsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerymanagmentsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|solutionrelative:grocerymanagmentsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerydbcontext\\mygrocerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|solutionrelative:grocerydbcontext\\mygrocerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerydbcontext\\grocerydbcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|solutionrelative:grocerydbcontext\\grocerydbcontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05EC085-713C-45EE-A009-634A9690024D}|Common\\Common.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\common\\entities\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05EC085-713C-45EE-A009-634A9690024D}|Common\\Common.csproj|solutionrelative:common\\entities\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05EC085-713C-45EE-A009-634A9690024D}|Common\\Common.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\common\\entities\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05EC085-713C-45EE-A009-634A9690024D}|Common\\Common.csproj|solutionrelative:common\\entities\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05EC085-713C-45EE-A009-634A9690024D}|Common\\Common.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\common\\entities\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05EC085-713C-45EE-A009-634A9690024D}|Common\\Common.csproj|solutionrelative:common\\entities\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05EC085-713C-45EE-A009-634A9690024D}|Common\\Common.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\common\\entities\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05EC085-713C-45EE-A009-634A9690024D}|Common\\Common.csproj|solutionrelative:common\\entities\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerymanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|solutionrelative:grocerymanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B07B58D-D94F-4D75-AC16-DE774507B1C2}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DBF1DB6-4ECE-4A5F-94FD-B47374C1729B}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerymanagmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C86453D-A327-4EF5-BB7A-020D4341F308}|GroceryManagmentSystem\\GroceryManagementSystem.csproj|solutionrelative:grocerymanagmentsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerydbcontext\\migrations\\20250406002357_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|solutionrelative:grocerydbcontext\\migrations\\20250406002357_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405235408_i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215954_RemoveCascadeDeletePaths1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405214949_FixCascadeIssue11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215410_RemoveCascadeDeletePaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215108_FixCascadeIssue111.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405213246_FixCascadeIssue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405212355_init111.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405212220_init11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405211912_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405203648_init22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405201017_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05EC085-713C-45EE-A009-634A9690024D}|Common\\Common.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C05EC085-713C-45EE-A009-634A9690024D}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerydbcontext\\migrations\\20250406143929_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|solutionrelative:grocerydbcontext\\migrations\\20250406143929_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerydbcontext\\migrations\\20250407165055_init222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|solutionrelative:grocerydbcontext\\migrations\\20250407165055_init222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|d:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\grocerymanagmentsystem\\grocerydbcontext\\migrations\\20250407113032_init11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEF2418-42DE-4708-B2D2-A93B651FD184}|GroceryDbContext\\GroceryDbContext.csproj|solutionrelative:grocerydbcontext\\migrations\\20250407113032_init11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IOrderService.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:04:14.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IService.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:14:47.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Services\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\OrderDetailService.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Services\\OrderDetailService.cs",
+              "RelativeToolTip": "Service\\Services\\OrderDetailService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwBAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:40:06.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\OrderService.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Services\\OrderService.cs",
+              "RelativeToolTip": "Service\\Services\\OrderService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:39:47.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ProductService.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Services\\ProductService.cs",
+              "RelativeToolTip": "Service\\Services\\ProductService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAzwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:38:38.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\SupplierService.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Services\\SupplierService.cs",
+              "RelativeToolTip": "Service\\Services\\SupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:39:16.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Service\\MapperProfile.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\MapperProfile.cs",
+              "RelativeToolTip": "Service\\MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:13:40.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "Service\\ServiceCollectionExtension.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "Service\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:17:09.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ILoginService.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ILoginService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:16:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "Repository\\ServiceCollectionExtension.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "Repository\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAASwAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:51:31.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Repository\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\SupplierRepository.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Repository\\SupplierRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\SupplierRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:43:30.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:47:53.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\OrderRepository.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:23:30.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetailsRepository.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Repository\\OrderDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository\\OrderDetailsRepository.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Repository\\OrderDetailsRepository.cs",
+              "RelativeToolTip": "Repository\\Repository\\OrderDetailsRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:28:49.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:34:52.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:36:08.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Interfaces\\ILogin.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\ILogin.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Interfaces\\ILogin.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\ILogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T18:48:52.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Interfaces\\IContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IContext.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Interfaces\\IContext.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:38:22.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Supplier.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Entities\\Supplier.cs",
+              "RelativeToolTip": "Repository\\Entities\\Supplier.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:52:02.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Product.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Entities\\Product.cs",
+              "RelativeToolTip": "Repository\\Entities\\Product.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAtwBQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:52:13.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Entities\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\OrderDetails.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Entities\\OrderDetails.cs",
+              "RelativeToolTip": "Repository\\Entities\\OrderDetails.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:14:31.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Order.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Entities\\Order.cs",
+              "RelativeToolTip": "Repository\\Entities\\Order.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:52:21.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "GroceryManagmentSystem\\Controllers\\SupplierController.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "GroceryManagmentSystem\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAqwGYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:04:00.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "GroceryManagmentSystem\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "GroceryManagmentSystem\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:57:10.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GroceryManagmentSystem\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GroceryManagmentSystem\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T13:07:46.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "GroceryManagmentSystem\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "GroceryManagmentSystem\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:43:20.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyGroceryContext.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\MyGroceryContext.cs",
+              "RelativeDocumentMoniker": "GroceryDbContext\\MyGroceryContext.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\MyGroceryContext.cs",
+              "RelativeToolTip": "GroceryDbContext\\MyGroceryContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA+wBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:03:43.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GroceryDbContext.csproj",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\GroceryDbContext.csproj",
+              "RelativeDocumentMoniker": "GroceryDbContext\\GroceryDbContext.csproj",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\GroceryDbContext.csproj",
+              "RelativeToolTip": "GroceryDbContext\\GroceryDbContext.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T21:58:20.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SupplierDto.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Common\\Entities\\SupplierDto.cs",
+              "RelativeDocumentMoniker": "Common\\Entities\\SupplierDto.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Common\\Entities\\SupplierDto.cs",
+              "RelativeToolTip": "Common\\Entities\\SupplierDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:13:00.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Common\\Entities\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Common\\Entities\\ProductDto.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Common\\Entities\\ProductDto.cs",
+              "RelativeToolTip": "Common\\Entities\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:22:36.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Common\\Entities\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Common\\Entities\\OrderDto.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Common\\Entities\\OrderDto.cs",
+              "RelativeToolTip": "Common\\Entities\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:35:30.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderDetailsDto.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Common\\Entities\\OrderDetailsDto.cs",
+              "RelativeDocumentMoniker": "Common\\Entities\\OrderDetailsDto.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Common\\Entities\\OrderDetailsDto.cs",
+              "RelativeToolTip": "Common\\Entities\\OrderDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:24:08.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250407165055_init222.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250407165055_init222.cs",
+              "RelativeDocumentMoniker": "GroceryDbContext\\Migrations\\20250407165055_init222.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250407165055_init222.cs",
+              "RelativeToolTip": "GroceryDbContext\\Migrations\\20250407165055_init222.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:50:55.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "GroceryManagmentSystem\\Program.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\Program.cs",
+              "RelativeToolTip": "GroceryManagmentSystem\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAQwEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:12:47.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250407113032_init11.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250407113032_init11.cs",
+              "RelativeDocumentMoniker": "GroceryDbContext\\Migrations\\20250407113032_init11.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250407113032_init11.cs",
+              "RelativeToolTip": "GroceryDbContext\\Migrations\\20250407113032_init11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:30:33.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250406143929_init1.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250406143929_init1.cs",
+              "RelativeDocumentMoniker": "GroceryDbContext\\Migrations\\20250406143929_init1.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250406143929_init1.cs",
+              "RelativeToolTip": "GroceryDbContext\\Migrations\\20250406143929_init1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:39:29.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T16:42:35.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T21:13:45.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "GroceryManagmentSystem\\appsettings.json",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryManagmentSystem\\appsettings.json",
+              "RelativeToolTip": "GroceryManagmentSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T08:58:21.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250406002357_InitialCreate.cs",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250406002357_InitialCreate.cs",
+              "RelativeDocumentMoniker": "GroceryDbContext\\Migrations\\20250406002357_InitialCreate.cs",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250406002357_InitialCreate.cs",
+              "RelativeToolTip": "GroceryDbContext\\Migrations\\20250406002357_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:23:57.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250405235408_i.cs",
+              "DocumentMoniker": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405235408_i.cs",
+              "RelativeDocumentMoniker": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405235408_i.cs",
+              "ToolTip": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405235408_i.cs",
+              "RelativeToolTip": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405235408_i.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:54:08.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250405215954_RemoveCascadeDeletePaths1.cs",
+              "DocumentMoniker": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215954_RemoveCascadeDeletePaths1.cs",
+              "RelativeDocumentMoniker": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215954_RemoveCascadeDeletePaths1.cs",
+              "ToolTip": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215954_RemoveCascadeDeletePaths1.cs",
+              "RelativeToolTip": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215954_RemoveCascadeDeletePaths1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:59:54.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250405214949_FixCascadeIssue11.cs",
+              "DocumentMoniker": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405214949_FixCascadeIssue11.cs",
+              "RelativeDocumentMoniker": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405214949_FixCascadeIssue11.cs",
+              "ToolTip": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405214949_FixCascadeIssue11.cs",
+              "RelativeToolTip": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405214949_FixCascadeIssue11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:49:49.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250405215410_RemoveCascadeDeletePaths.cs",
+              "DocumentMoniker": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215410_RemoveCascadeDeletePaths.cs",
+              "RelativeDocumentMoniker": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215410_RemoveCascadeDeletePaths.cs",
+              "ToolTip": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215410_RemoveCascadeDeletePaths.cs",
+              "RelativeToolTip": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215410_RemoveCascadeDeletePaths.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:54:10.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250405215108_FixCascadeIssue111.cs",
+              "DocumentMoniker": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215108_FixCascadeIssue111.cs",
+              "RelativeDocumentMoniker": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215108_FixCascadeIssue111.cs",
+              "ToolTip": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215108_FixCascadeIssue111.cs",
+              "RelativeToolTip": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405215108_FixCascadeIssue111.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:51:08.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250405213246_FixCascadeIssue.cs",
+              "DocumentMoniker": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405213246_FixCascadeIssue.cs",
+              "RelativeDocumentMoniker": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405213246_FixCascadeIssue.cs",
+              "ToolTip": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405213246_FixCascadeIssue.cs",
+              "RelativeToolTip": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405213246_FixCascadeIssue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:32:46.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250405212355_init111.cs",
+              "DocumentMoniker": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405212355_init111.cs",
+              "RelativeDocumentMoniker": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405212355_init111.cs",
+              "ToolTip": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405212355_init111.cs",
+              "RelativeToolTip": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405212355_init111.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:23:55.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250405212220_init11.cs",
+              "DocumentMoniker": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405212220_init11.cs",
+              "RelativeDocumentMoniker": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405212220_init11.cs",
+              "ToolTip": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405212220_init11.cs",
+              "RelativeToolTip": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405212220_init11.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:22:20.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250405211912_init1.cs",
+              "DocumentMoniker": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405211912_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405211912_init1.cs",
+              "ToolTip": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405211912_init1.cs",
+              "RelativeToolTip": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405211912_init1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:19:12.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250405203648_init22.cs",
+              "DocumentMoniker": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405203648_init22.cs",
+              "RelativeDocumentMoniker": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405203648_init22.cs",
+              "ToolTip": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405203648_init22.cs",
+              "RelativeToolTip": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405203648_init22.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:36:48.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250405201017_init.cs",
+              "DocumentMoniker": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405201017_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405201017_init.cs",
+              "ToolTip": "D:\\hadasim\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405201017_init.cs",
+              "RelativeToolTip": "..\\..\\GroceryManagmentSystem\\GroceryDbContext\\Migrations\\20250405201017_init.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:10:17.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Common.csproj",
+              "DocumentMoniker": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "D:\\hadasim\\\u05D7\u05DC\u05E7 \u05D3\\GroceryManagmentSystem\\Common\\Common.csproj",
+              "RelativeToolTip": "Common\\Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T13:06:06.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
